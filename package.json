@@ -1,0 +1,16 @@
+{
+  "name": "cinehouse",
+  "version": "1.0.0",
+  "description": "Projeto CineHouse da Digital House - modulo Desbravando Node.js",
+  "main": "cinema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel Blasques",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.15"
+  }
+}
